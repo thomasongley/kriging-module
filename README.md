@@ -77,4 +77,4 @@ kriging-module/
 
 ## Acknowledgments
 
-This kriging module is a translation and adaptation of MATLAB code by A I J Forrester, originally provided under the GNU Lesser General Public License (LGPL). All credit for the original work goes to the original author.
+This kriging module is a translation and adaptation of MATLAB code by Forrester, Sóbester, and Keane, originally provided under the GNU Lesser General Public License (LGPL). All credit for the original work goes to the original author.
