@@ -14,7 +14,7 @@ A reusable Python module for performing Ordinary Kriging with uncertainty quanti
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/kriging-module.git
+   git clone https://github.com/thomasongley/kriging-module.git
    cd kriging-module
 
 2. **Install Dependencies:**
