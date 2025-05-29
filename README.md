@@ -1,6 +1,6 @@
 # Kriging Module
 
-A reusable Python module for performing Ordinary Kriging with uncertainty quantification, based on the work of Forrester. This module uses a power exponential kernel and optimizes hyperparameters via differential evolution.
+A reusable Python module for performing Ordinary Kriging, AR1 Cokriging, (based on the work of Forrester) and Hierarchical Kriging (based on the work of Han and Görtz) with uncertainty quantification.. This module uses a power exponential kernel and optimises hyperparameters via differential evolution.
 
 ## Features
 
