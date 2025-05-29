@@ -77,6 +77,7 @@ kriging-module/
 
 ## Acknowledgments
 
-This kriging module is a translation and adaptation of MATLAB code from *Engineering Design via Surrogate Modelling* by Forrester *et al.* [^1]; originally provided under the GNU Lesser General Public License (LGPL). All credit for the original work goes to the original author.
+This kriging module contains a translation and adaptation of MATLAB code from *Engineering Design via Surrogate Modelling* by Forrester *et al.* [^1]; originally provided under the GNU Lesser General Public License (LGPL). All credit for the original work goes to the original author. The Hierarchical Kriging class is an implementation of the method proposed by Han and  Görtz [^2].
 
-[^1]: Alexander I. J. Forrester, András Sóbester, Andy J. Keane, *Engineering Design via Surrogate Modelling*, John Wiley & Sons, 2008.
+[^1]: Alexander I. J. Forrester, András Sóbester, Andy J. Keane, *Engineering Design via Surrogate Modelling*, John Wiley & Sons, 2008. 
+[^2]: Zhong-Hua Han, Stefan Görtz, *Hierarchical Kriging Model for Variable-Fidelity Surrogate Modeling*, AIAA Journal, 2012.
